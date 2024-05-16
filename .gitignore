@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/public
+/src
+/package-lock.json
+/package.json
+/portifolio-react.rar
 /.pnp
 .pnp.js
 
