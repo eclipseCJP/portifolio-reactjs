@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3e8c26f.css",
+    "main.js": "/static/js/main.dd4dd897.js",
+    "static/js/453.0befe497.chunk.js": "/static/js/453.0befe497.chunk.js",
+    "static/media/ladingPage.png": "/static/media/ladingPage.ad28f8a12f2d048f4ddf.png",
+    "static/media/finance.png": "/static/media/finance.93c5602b2b5c953af577.png",
+    "static/media/CALC.gif": "/static/media/CALC.c4043da27d8e5237e20e.gif",
+    "static/media/projet1.0.gif": "/static/media/projet1.0.a28a229d5ece41871ba6.gif",
+    "static/media/post.png": "/static/media/post.57a408a30a327238200d.png",
+    "static/media/cris.jpeg": "/static/media/cris.8717053d9995447474d7.jpeg",
+    "static/media/calculadoraIMC.png": "/static/media/calculadoraIMC.00549cbe6de9cc80efc3.png",
+    "static/media/instagram.png": "/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/github.png": "/static/media/github.f11021803f68852df283.png",
+    "static/media/churrascometro.png": "/static/media/churrascometro.8384e53cc3222c3afe7e.png",
+    "static/media/appPay.png": "/static/media/appPay.ca8f578690ac1a278491.png",
+    "static/media/sortear.png": "/static/media/sortear.712955e7a74a271eccd4.png",
+    "index.html": "/index.html",
+    "main.f3e8c26f.css.map": "/static/css/main.f3e8c26f.css.map",
+    "main.dd4dd897.js.map": "/static/js/main.dd4dd897.js.map",
+    "453.0befe497.chunk.js.map": "/static/js/453.0befe497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e8c26f.css",
+    "static/js/main.dd4dd897.js"
+  ]
+}
